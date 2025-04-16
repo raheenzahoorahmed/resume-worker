@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "resume-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e523727d-3f03-4ad8-a049-f6c753a5e235",
+      "database_name": "dry-cloud-5bb3-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
